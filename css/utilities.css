@@ -1,0 +1,24 @@
+/* text colors */
+.text-primary {
+    color: 28a745;
+}
+
+.text-secondary {
+    color: #0284d0
+}
+
+.flex-columns {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+}
+.flex-rows {
+    display: flex;
+    height: 100%;
+}
+
+.flex-items > div {
+    padding: 20px;  
+}
